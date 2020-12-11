@@ -1,0 +1,166 @@
+baseurl = "https://j-jem.github.io/"
+title = ""
+theme = "hugo-creative-portfolio-theme"
+languageCode = "en-us"
+publishDir = "docs"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
+
+[params]
+  # Style options: default (pink), blue, green, pink, red, sea, violet
+  # Use custom.css for your custom styling
+  customCss = ["css/custom.css"]
+  style = "green"
+  description = ""
+  copyright = ""
+  sidebarAbout = [
+    ""
+  ]
+   google_fonts = [
+     ["Sora", "100, 200, 300, 400, 500, 600, 700, 800, 900"]
+   ]
+
+   heading_font = "Sora"
+   body_font = "Sora"
+
+  # Contact page
+     # Since this template is static, the contact form uses www.formspree.io as a
+     # proxy. The form makes a POST request to their servers to send the actual
+     # email. Visitors can send up to a 1000 emails each month for free.
+     #
+     # What you need to do for the setup?
+     #
+     # - set your email address under 'email' below
+     # - upload the generated site to your server
+     # - send a dummy email yourself to confirm your account
+     # - click the confirm link in the email from www.formspree.io
+     # - you're done. Happy mailing!
+  email = "you@yoursite.com"
+
+    # Optional Matomo analytics (formerly piwik)
+      # [params.analytics.matomo]
+      #  URL = "https://stats.example.com"
+      #  ID = "42"
+      #  # Track all subdomains with "*.example.com" (Optional)
+      #  domain = "www.example.com"
+      #  # Optional integrity check hash
+      #  hash = ""
+
+  # Nav links in the side bar
+  [[params.navlinks]]
+  name = "JUSTIN JEM"
+  url = "projects/"
+  home = true
+  
+  [[params.navlinks]]
+  name = "CONTACT"
+  url = "contact/"
+
+  [[params.navlinks]]
+  name = "Morphing Grid 1"
+  url = "projects/november-poster-showcase/"
+  projects = false
+
+  [[params.navlinks]]
+  name = "Shapes 05"
+  url = "projects/shapes-05/"
+  projects = false
+
+  [[params.navlinks]]
+  name = "2020 Reel"
+  url = "projects/2020-reel/"
+  projects = false
+
+    [[params.navlinks]]
+  name = "Mech City Run"
+  url = "projects/mech-city-run/"
+  projects = false
+
+    [[params.navlinks]]
+  name = "Seed & Stem"
+  url = "projects/seed-and-stem/"
+  projects = false
+
+      [[params.navlinks]]
+  name = "Morphing Grid 2"
+  url = "projects/november-poster-showcase-2/"
+  projects = false
+  
+        [[params.navlinks]]
+  name = "Focus IO"
+  url = "projects/focus-io/"
+  projects = false
+
+        [[params.navlinks]]
+  name = "Waste of Space"
+  url = "projects/waste-of-space/"
+  projects = false
+
+        [[params.navlinks]]
+  name = "Blend 3015"
+  url = "projects/blend-3015/"
+  projects = false
+
+        [[params.navlinks]]
+  name = "Science Addicts Unite"
+  url = "projects/science-addicts-unite/"
+  projects = false
+
+        [[params.navlinks]]
+  name = "Ghost Tease"
+  url = "projects/ghost-tease/"
+  projects = false
+  
+        [[params.navlinks]]
+  name = "CDL Sequence"
+  url = "projects/cdl-sequence/"
+  projects = false
+    
+        [[params.navlinks]]
+  name = "UI 03"
+  url = "projects/ui-03/"
+  projects = false
+    
+        [[params.navlinks]]
+  name = "September Poster Showcase"
+  url = "projects/environment-space-digital/"
+  projects = false
+    
+        [[params.navlinks]]
+  name = "November Poster Showcase"
+  url = "projects/november-poster-showcase-3/"
+  projects = false
+
+          [[params.navlinks]]
+  name = "Shape 04"
+  url = "projects/shape-04/"
+  projects = false
+    
+        [[params.navlinks]]
+  name = "Overwatch Banner"
+  url = "projects/ow-banner/"
+  projects = false
+    
+        [[params.navlinks]]
+  name = "Glitch 02"
+  url = "projects/glitch-02/"
+  projects = false
+    
+        [[params.navlinks]]
+  name = "Operator Social Sequence"
+  url = "projects/operator-social-sequence/"
+  projects = false
+
+        [[params.navlinks]]
+  name = "Bruin GG"
+  url = "projects/bruin-gg/"
+  projects = false
+
+        [[params.navlinks]]
+  name = "Launch Countdown Card"
+  url = "projects/launch-countdown-card/"
+  projects = false
+  
+  
