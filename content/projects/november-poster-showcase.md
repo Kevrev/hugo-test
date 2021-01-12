@@ -1,11 +1,11 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/portfolio/des-6.gif"
+image = "img/portfolio/des-6b.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Morphing Grid 1"
 description = "Morphing grid typography"
-weight = 1
+weight = 2
 +++
 
 {{< vimeo 486411115 >}}

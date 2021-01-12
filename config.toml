@@ -59,18 +59,23 @@ googleAnalytics = ""
   url = "contact/"
 
   [[params.navlinks]]
+  name = "Home Loop"
+  url = "projects/home-loop/"
+  projects = false  
+
+  [[params.navlinks]]
   name = "Morphing Grid 1"
   url = "projects/november-poster-showcase/"
   projects = false
 
   [[params.navlinks]]
-  name = "Shapes 05"
-  url = "projects/shapes-05/"
+  name = "2020 Reel"
+  url = "projects/2020-reel/"
   projects = false
 
   [[params.navlinks]]
-  name = "2020 Reel"
-  url = "projects/2020-reel/"
+  name = "Shapes 05"
+  url = "projects/shapes-05/"
   projects = false
 
     [[params.navlinks]]
@@ -82,11 +87,6 @@ googleAnalytics = ""
   name = "Seed & Stem"
   url = "projects/seed-and-stem/"
   projects = false
-
-      [[params.navlinks]]
-  name = "Morphing Grid 2"
-  url = "projects/november-poster-showcase-2/"
-  projects = false
   
         [[params.navlinks]]
   name = "Focus IO"
@@ -94,7 +94,7 @@ googleAnalytics = ""
   projects = false
 
         [[params.navlinks]]
-  name = "Waste of Space"
+  name = "Oct Poster Showcase"
   url = "projects/waste-of-space/"
   projects = false
 
@@ -124,12 +124,7 @@ googleAnalytics = ""
   projects = false
     
         [[params.navlinks]]
-  name = "September Poster Showcase"
-  url = "projects/environment-space-digital/"
-  projects = false
-    
-        [[params.navlinks]]
-  name = "November Poster Showcase"
+  name = "Nov Poster Showcase"
   url = "projects/november-poster-showcase-3/"
   projects = false
 
@@ -149,18 +144,12 @@ googleAnalytics = ""
   projects = false
     
         [[params.navlinks]]
-  name = "Operator Social Sequence"
+  name = "Operator Sequence"
   url = "projects/operator-social-sequence/"
-  projects = false
-
-        [[params.navlinks]]
-  name = "Bruin GG"
-  url = "projects/bruin-gg/"
   projects = false
 
         [[params.navlinks]]
   name = "Launch Countdown Card"
   url = "projects/launch-countdown-card/"
   projects = false
-  
   

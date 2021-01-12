@@ -10,7 +10,7 @@ body {
 
 /* Main Type */
 body {
-    font-size: 2rem;
+    font-size: 1.5rem;
     font-weight: 200;
     letter-spacing: 0.0em;
     font-family: "Sora", sans-serif;
@@ -23,17 +23,57 @@ header {
     font-family: "Sora", sans-serif;
 }
 
-/* Side Bar position */
+/* mobile player spacing */
 
-div.fixed {
-  position: fixed;
+.content-column-content {
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-bottom: 20px;
 }
 
-/* Side Bar left padding */
+/* buttons  */
+
+.small-navbar {
+  margin-bottom: 20px;
+}
+
+.btn {
+  font-weight: 400;
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  padding: 6px 12px;
+  font-size: 16px;
+  line-height: 1.55;
+  border-radius: 0;
+}
+
+.btn-ghost {
+  color: #333333;
+  background-color: transparent;
+  border-color: #333333;
+}
+
+.btn-ghost:hover,
+.btn-ghost:focus,
+.btn-ghost:active,
+.btn-ghost.active,
+.open .dropdown-toggle.btn-ghost {
+  color: #fff;
+  background-color: #555555;
+  border-color: #555555;
+}
+
+/* Side Bar  */
 
 .sidebar-menu {
     padding-left: 30px;
-    margin-bottom: 40px;
+    padding-right: 30px;
+    padding-top: 70px;
+    margin-bottom: 0px;
+    top: 0;
+    bottom:0;
+    position:fixed;
+    overflow-y:scroll;
+    overflow-x:hidden;
   }
 
 /* Side Bar color */
@@ -128,8 +168,8 @@ h5,
 }
 h6,
 .h6 {
-  font-size: 14px;
-  font-weight: 700;
+  font-size: 1.5rem;
+  font-weight: 515;
 }
 h1,
 .h1,
@@ -199,10 +239,13 @@ p {
     .content-column-content {
       padding-left: 0px;
       padding-right: 140px;
+      padding-bottom: 250px;
     }
   }
   .content-column {
     padding-top: 70px;
+    padding-left: 100px;
+    padding-right: 100px;
   }
 
   /* Selection Color */
