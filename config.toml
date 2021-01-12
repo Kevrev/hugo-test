@@ -64,7 +64,7 @@ googleAnalytics = ""
   projects = false  
 
   [[params.navlinks]]
-  name = "Morphing Grid 1"
+  name = "Nov Poster Showcase"
   url = "projects/november-poster-showcase/"
   projects = false
 
@@ -95,7 +95,7 @@ googleAnalytics = ""
 
         [[params.navlinks]]
   name = "Oct Poster Showcase"
-  url = "projects/waste-of-space/"
+  url = "projects/october-poster-showcase/"
   projects = false
 
         [[params.navlinks]]
@@ -121,11 +121,6 @@ googleAnalytics = ""
         [[params.navlinks]]
   name = "UI 03"
   url = "projects/ui-03/"
-  projects = false
-    
-        [[params.navlinks]]
-  name = "Nov Poster Showcase"
-  url = "projects/november-poster-showcase-3/"
   projects = false
 
           [[params.navlinks]]
