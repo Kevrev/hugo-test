@@ -5,7 +5,7 @@ description = "A looping collection of silly shapes"
 draft = false
 image = "img/portfolio/des-2.jpg"
 showonlyimage = true
-weight = 4
+weight = 6
 +++
 
 {{< vimeo 486421527 >}}

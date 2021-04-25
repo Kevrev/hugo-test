@@ -3,18 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jemjustin.com/projects/motion-secrets-final/</loc>
+    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jemjustin.com/projects/motion-secrets-reel/</loc>
+    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jemjustin.com/projects/home-loop/</loc>
+    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jemjustin.com/projects/2020-reel/</loc>
     <lastmod>2016-11-05T19:44:32+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://jemjustin.com/projects/november-poster-showcase/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jemjustin.com/projects/2020-reel/</loc>
-    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
   </url>
   
   <url>
@@ -53,17 +63,7 @@
   </url>
   
   <url>
-    <loc>https://jemjustin.com/projects/ghost-tease/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>https://jemjustin.com/projects/shape-04/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jemjustin.com/projects/ui-03/</loc>
     <lastmod>2016-11-05T20:23:59+05:30</lastmod>
   </url>
   
@@ -73,7 +73,17 @@
   </url>
   
   <url>
+    <loc>https://jemjustin.com/projects/ui-03/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jemjustin.com/projects/cdl-sequence/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jemjustin.com/projects/ghost-tease/</loc>
     <lastmod>2016-11-05T20:23:59+05:30</lastmod>
   </url>
   
