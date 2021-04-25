@@ -57,6 +57,16 @@ googleAnalytics = ""
   [[params.navlinks]]
   name = "CONTACT"
   url = "contact/"
+ 
+  [[params.navlinks]]
+  name = "Motion Secrets Final"
+  url = "projects/motion-secrets-final/"
+  projects = false
+
+  [[params.navlinks]]
+  name = "Motion Secrets Reel"
+  url = "projects/motion-secrets-reel/"
+  projects = false
 
   [[params.navlinks]]
   name = "Home Loop"
