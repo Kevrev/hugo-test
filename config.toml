@@ -57,6 +57,16 @@ googleAnalytics = ""
   [[params.navlinks]]
   name = "CONTACT"
   url = "contact/"
+
+  [[params.navlinks]]
+  name = "2021.5 Reel"
+  url = "projects/2021.5-reel/"
+  projects = false
+
+  [[params.navlinks]]
+  name = "It's Spring"
+  url = "projects/its-spring-stop-scrolling/"
+  projects = false
  
   [[params.navlinks]]
   name = "Motion Secrets Final"
@@ -76,11 +86,6 @@ googleAnalytics = ""
   [[params.navlinks]]
   name = "Nov Poster Showcase"
   url = "projects/november-poster-showcase/"
-  projects = false
-
-  [[params.navlinks]]
-  name = "2020 Reel"
-  url = "projects/2020-reel/"
   projects = false
 
   [[params.navlinks]]

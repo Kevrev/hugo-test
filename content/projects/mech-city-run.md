@@ -5,7 +5,7 @@ description = "Run cycle of mech design. Combination of After Effects, Blender, 
 showonlyimage = true
 date = "2016-11-05T19:50:47+05:30"
 title = "Mech City Run"
-weight = 7
+weight = 8
 +++
 
 {{< vimeo 470110704 >}}
