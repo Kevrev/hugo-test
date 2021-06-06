@@ -59,6 +59,11 @@ googleAnalytics = ""
   url = "contact/"
 
   [[params.navlinks]]
+  name = "MP Walk Cycle"
+  url = "projects/mp-lesson-02/"
+  projects = false
+
+  [[params.navlinks]]
   name = "2021.5 Reel"
   url = "projects/2021.5-reel/"
   projects = false
