@@ -59,17 +59,22 @@ googleAnalytics = ""
   url = "contact/"
 
   [[params.navlinks]]
-  name = "MP Walk Cycle"
-  url = "projects/mp-lesson-02/"
+  name = "Motion Practice Reel"
+  url = "projects/mp-reel/"
   projects = false
 
   [[params.navlinks]]
-  name = "2021.5 Reel"
-  url = "projects/2021.5-reel/"
+  name = "Motion Practice Walk Cycle"
+  url = "projects/mp-walk-cycle/"
   projects = false
 
   [[params.navlinks]]
-  name = "It's Spring"
+  name = "2021 Reel"
+  url = "projects/2021-reel/"
+  projects = false
+
+  [[params.navlinks]]
+  name = "It's Spring Stop Scrolling"
   url = "projects/its-spring-stop-scrolling/"
   projects = false
  
@@ -89,8 +94,8 @@ googleAnalytics = ""
   projects = false  
 
   [[params.navlinks]]
-  name = "Nov Poster Showcase"
-  url = "projects/november-poster-showcase/"
+  name = "Morphing Grid"
+  url = "projects/morphing-grid/"
   projects = false
 
   [[params.navlinks]]
@@ -111,11 +116,6 @@ googleAnalytics = ""
         [[params.navlinks]]
   name = "Focus IO"
   url = "projects/focus-io/"
-  projects = false
-
-        [[params.navlinks]]
-  name = "Oct Poster Showcase"
-  url = "projects/october-poster-showcase/"
   projects = false
 
         [[params.navlinks]]
