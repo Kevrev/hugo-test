@@ -3,7 +3,7 @@ image = "img/portfolio/mp-reel-gif.gif"
 showonlyimage = true
 date = "2016-11-05T19:44:32+05:30"
 title = "Motion Practice Reel"
-description = "A collection of animated assingments from the course 'Motion Practice' mainly showcasing a frame-by-frame approach using adobe animate"
+description = "A collection of animated assignments from the course 'Motion Practice' mainly showcasing a frame-by-frame approach using adobe animate"
 draft = false
 weight = 1
 +++
