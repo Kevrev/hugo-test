@@ -129,16 +129,6 @@ googleAnalytics = ""
   projects = false
 
         [[params.navlinks]]
-  name = "Ghost Tease"
-  url = "projects/ghost-tease/"
-  projects = false
-  
-        [[params.navlinks]]
-  name = "CDL Sequence"
-  url = "projects/cdl-sequence/"
-  projects = false
-    
-        [[params.navlinks]]
   name = "UI 03"
   url = "projects/ui-03/"
   projects = false
@@ -158,13 +148,4 @@ googleAnalytics = ""
   url = "projects/glitch-02/"
   projects = false
     
-        [[params.navlinks]]
-  name = "Operator Sequence"
-  url = "projects/operator-social-sequence/"
-  projects = false
-
-        [[params.navlinks]]
-  name = "Launch Countdown Card"
-  url = "projects/launch-countdown-card/"
-  projects = false
   
