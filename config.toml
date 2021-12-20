@@ -55,17 +55,17 @@ googleAnalytics = ""
   home = true
   
   [[params.navlinks]]
-  name = "CONTACT"
-  url = "contact/"
+  name = "About"
+  url = "about/"
 
   [[params.navlinks]]
-  name = "Motion Practice Reel"
-  url = "projects/mp-reel/"
+  name = "2D Animations"
+  url = "projects/2d-animations/"
   projects = false
 
   [[params.navlinks]]
-  name = "Motion Practice Walk Cycle"
-  url = "projects/mp-walk-cycle/"
+  name = "Giving Tuesday"
+  url = "projects/giving-tuesday/"
   projects = false
 
   [[params.navlinks]]
