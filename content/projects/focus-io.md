@@ -9,4 +9,4 @@ weight = 12
 +++
 
 {{< vimeo 384308386 >}}  
-An assignment from a course called "Advanced Motion Methods" focusing on match-cut transitions based on provided style frames
+##### An assignment from a course called "Advanced Motion Methods" focusing on match-cut transitions based on provided style frames

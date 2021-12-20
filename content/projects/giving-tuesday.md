@@ -9,4 +9,6 @@ weight = 2
 +++
 
 {{< vimeo 652308760 >}}  
-Animated Piece for Giving Tuesday
+##### An animated piece for Giving Tuesday
+##### Storyboard / Styleframes / Sound: Rescue Vessel 
+##### Animation: Justin Jem

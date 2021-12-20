@@ -9,4 +9,4 @@ weight = 7
 +++
 
 {{< vimeo 499966341 >}}  
-A personal animation where I mainly wanted to focus on interesting transitions between each shot
+##### A personal animation where I mainly wanted to focus on interesting transitions between each shot

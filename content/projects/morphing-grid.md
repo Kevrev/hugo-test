@@ -9,4 +9,4 @@ weight = 8
 +++
 
 {{< vimeo 486411115 >}}  
-Exploring different ways typography could animate within a poster-like format
+##### Exploring different ways typography could animate within a poster-like format

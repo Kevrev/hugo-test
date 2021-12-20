@@ -9,4 +9,4 @@ weight = 14
 +++
 
 {{< vimeo 384304747 >}}  
-An assignment from a course called "Advanced Motion Methods" where more complex shot transitions were explored based on provided style frames
+##### An assignment from a course called "Advanced Motion Methods" where more complex shot transitions were explored based on provided style frames

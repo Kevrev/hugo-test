@@ -9,5 +9,5 @@ weight = 10
 +++
 
 {{< vimeo 470110704 >}}  
-A personal project that explored different software. The buildings were created from recessing and extruding simple geometry in Blender, situated at different distances to create a bit of a parallax effect.
-The mech design was designed in illustrator and rigged with Duik in after effects
+##### A personal project that explored different software. The buildings were created from simple geometry in Blender
+##### The mech design was designed in illustrator and rigged with Duik in after effects

@@ -8,6 +8,7 @@ draft = false
 weight = 1
 +++
 
+##### A collection of FX animation from a course by RTFX
 ![fx gif](/img/portfolio/fx-liquid-01.gif)  
 
 ![fx gif](/img/portfolio/fx-liquid-02.gif)  
@@ -22,6 +23,7 @@ weight = 1
 
 ![fx gif](/img/portfolio/fx-electricity-03.gif)
 
+##### Misc animations
 ![tonika gif](/img/portfolio/tonika-flag.gif)
 
 ![tonika gif](/img/portfolio/tonika-fish.gif)

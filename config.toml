@@ -143,9 +143,6 @@ googleAnalytics = ""
   url = "projects/ow-banner/"
   projects = false
     
-        [[params.navlinks]]
-  name = "Glitch 02"
-  url = "projects/glitch-02/"
-  projects = false
+
     
   
