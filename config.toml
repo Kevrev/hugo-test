@@ -89,11 +89,6 @@ googleAnalytics = ""
   projects = false
 
   [[params.navlinks]]
-  name = "Home Loop"
-  url = "projects/home-loop/"
-  projects = false  
-
-  [[params.navlinks]]
   name = "Morphing Grid"
   url = "projects/morphing-grid/"
   projects = false
@@ -106,11 +101,6 @@ googleAnalytics = ""
     [[params.navlinks]]
   name = "Mech City Run"
   url = "projects/mech-city-run/"
-  projects = false
-
-    [[params.navlinks]]
-  name = "Seed & Stem"
-  url = "projects/seed-and-stem/"
   projects = false
   
         [[params.navlinks]]
@@ -138,10 +128,7 @@ googleAnalytics = ""
   url = "projects/shape-04/"
   projects = false
     
-        [[params.navlinks]]
-  name = "Overwatch Banner"
-  url = "projects/ow-banner/"
-  projects = false
+
     
 
     

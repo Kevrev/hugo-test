@@ -1,5 +1,5 @@
 +++
-image = "img/portfolio/mp-lesson-02-gif.gif"
+image = "img/portfolio/mp-reel-gif.gif"
 showonlyimage = true
 date = "2016-11-05T19:44:32+05:30"
 title = "2D Animations"
