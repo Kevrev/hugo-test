@@ -28,8 +28,6 @@ weight = 1
 
 ![tonika gif](/img/portfolio/tonika-fish.gif)
 
-![morph gif](/img/portfolio/mp-lesson-02-gif.gif)  
-
 ![morph gif](/img/portfolio/mp-reel-gif.gif)  
 
 ![morph gif](/img/portfolio/mp-lesson-04-gif.gif) 
