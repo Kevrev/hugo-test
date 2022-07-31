@@ -51,7 +51,7 @@ googleAnalytics = ""
   # Nav links in the side bar
   [[params.navlinks]]
   name = "JUSTIN JEM"
-  url = "projects/"
+  url = 
   home = true
   
   [[params.navlinks]]
