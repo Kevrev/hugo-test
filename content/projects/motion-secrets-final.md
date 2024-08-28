@@ -1,5 +1,5 @@
 +++
-image = "img/portfolio/motion-secrets-final.jpg"
+image = "img/portfolio/motion-secrets-final.gif"
 showonlyimage = true
 date = "2016-11-05T19:44:32+05:30"
 title = "Motion Secrets Final"

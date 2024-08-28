@@ -4,8 +4,8 @@ showonlyimage = true
 date = "2016-11-05T19:44:32+05:30"
 title = "Motion Practice Walk Cycle"
 description = "A walk cycle assignment from the 'Motion Practice' course"
-draft = false
-weight = 2
+draft = true
+weight = 0
 +++
 
 {{< vimeo 559545140 >}}  

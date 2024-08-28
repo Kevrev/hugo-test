@@ -4,6 +4,6 @@ title = ""
 +++
 ##### Hello! Thank you for taking the time to check out my projects. Here are some links where you can reach me
 
-##### Email: JemJustinSum@gmail.com
+##### Email: MomoDotMotion@gmail.com
 
-##### Vimeo: https://vimeo.com/user107415518
+##### Vimeo: https://vimeo.com/momodotmotion

@@ -1,4 +1,4 @@
-baseurl = "https://jemjustin.com/"
+baseurl = "https://MomoDotMotion.com/"
 title = ""
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
@@ -59,6 +59,11 @@ googleAnalytics = ""
   url = "contact/"
 
   [[params.navlinks]]
+  name = "2024 Reel"
+  url = "projects/2024-reel/"
+  projects = false
+
+  [[params.navlinks]]
   name = "Motion Practice Reel"
   url = "projects/mp-reel/"
   projects = false
@@ -66,11 +71,6 @@ googleAnalytics = ""
   [[params.navlinks]]
   name = "Motion Practice Walk Cycle"
   url = "projects/mp-walk-cycle/"
-  projects = false
-
-  [[params.navlinks]]
-  name = "2021 Reel"
-  url = "projects/2021-reel/"
   projects = false
 
   [[params.navlinks]]
