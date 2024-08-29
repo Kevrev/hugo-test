@@ -4,7 +4,7 @@ showonlyimage = true
 date = "2016-11-05T19:44:32+05:30"
 title = "2D Animations"
 description = "A collection of animations with a more frame-by-frame approach"
-draft = false
+draft = true
 weight = 1
 +++
 
