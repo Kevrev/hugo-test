@@ -9,4 +9,4 @@ weight = 6
 +++
 
 {{< vimeo 536210054 >}}  
-A nice course that combined traditional 2d animation principles with after effects 
+A really great course that combined traditional 2d animation principles with after effects 

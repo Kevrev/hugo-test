@@ -9,4 +9,4 @@ weight = 19
 +++
 
 {{< vimeo 469761978 >}}  
-A personal project with a focus on simple shapes and a sense of frenetic energy
+##### A personal project with a focus on simple shapes and a sense of frenetic energy

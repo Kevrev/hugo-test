@@ -10,4 +10,4 @@ weight = 15
 
 
 {{< vimeo 384304599 >}}  
-An assignment from a course called "Advanced Motion Methods" that had a mix of after effects and Cinema 4D based on provided style frames
+##### An assignment from a course called "Advanced Motion Methods" that had a mix of after effects and Cinema 4D based on provided style frames
