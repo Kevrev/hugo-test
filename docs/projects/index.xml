@@ -2,119 +2,95 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on </title>
-    <link>https://jemjustin.com/projects/</link>
+    <link>http://localhost:1313/projects/</link>
     <description>Recent content in Projects on </description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Nov 2016 20:23:59 +0530</lastBuildDate><atom:link href="https://jemjustin.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Nov 2016 20:23:59 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2024 Reel</title>
-      <link>https://jemjustin.com/projects/2024-reel/</link>
+      <link>http://localhost:1313/projects/2024-reel/</link>
       <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
-      
-      <guid>https://jemjustin.com/projects/2024-reel/</guid>
+      <guid>http://localhost:1313/projects/2024-reel/</guid>
       <description>A collection of some of my personal and client work between late 2019 and early 2021</description>
     </item>
-    
     <item>
       <title>Giving Tuesday</title>
-      <link>https://jemjustin.com/projects/giving-tuesday/</link>
+      <link>http://localhost:1313/projects/giving-tuesday/</link>
       <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
-      
-      <guid>https://jemjustin.com/projects/giving-tuesday/</guid>
-      <description>   An animated piece for Giving Tuesday Storyboard / Styleframes / Sound: Rescue Vessel Animation: Justin Jem </description>
+      <guid>http://localhost:1313/projects/giving-tuesday/</guid>
+      <description> An animated piece for Giving Tuesday Storyboard / Styleframes / Sound: Rescue Vessel Animation: Justin Jem </description>
     </item>
-    
     <item>
       <title>Motion Practice Reel</title>
-      <link>https://jemjustin.com/projects/mp-reel/</link>
+      <link>http://localhost:1313/projects/mp-reel/</link>
       <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
-      
-      <guid>https://jemjustin.com/projects/mp-reel/</guid>
-      <description>The character designs were provided by the course, and I decided to design my own background for the second and third animation seen in the video above. Included below are looping gifs of the frame-by-frame rough passes for each assignment
-Out of 10 animal designs to choose from for this assignment, I thought that the owl and kangaroo could have an interesting jump and float transitional movement</description>
+      <guid>http://localhost:1313/projects/mp-reel/</guid>
+      <description>The character designs were provided by the course, and I decided to design my own background for the second and third animation seen in the video above. Included below are looping gifs of the frame-by-frame rough passes for each assignment&#xA;Out of 10 animal designs to choose from for this assignment, I thought that the owl and kangaroo could have an interesting jump and float transitional movement&#xA;Wanted to do a walk cycle where the character switches to walking backwards for a bit, and then spins around to face forward again</description>
     </item>
-    
     <item>
       <title>It&#39;s Spring Stop Scrolling</title>
-      <link>https://jemjustin.com/projects/its-spring-stop-scrolling/</link>
+      <link>http://localhost:1313/projects/its-spring-stop-scrolling/</link>
       <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
-      
-      <guid>https://jemjustin.com/projects/its-spring-stop-scrolling/</guid>
-      <description>   Social post for Compadre Studio Design / animation / sound: Justin Jem Sound design is not something I do often, but was something I found really fun to do for this project </description>
+      <guid>http://localhost:1313/projects/its-spring-stop-scrolling/</guid>
+      <description> Social post for Compadre Studio Design / animation / sound: Justin Jem Sound design is not something I do often, but was something I found really fun to do for this project </description>
     </item>
-    
     <item>
       <title>Motion Secrets Final</title>
-      <link>https://jemjustin.com/projects/motion-secrets-final/</link>
+      <link>http://localhost:1313/projects/motion-secrets-final/</link>
       <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
-      
-      <guid>https://jemjustin.com/projects/motion-secrets-final/</guid>
-      <description>   There was a time limit of 7 seconds for this which made it a challenge to fit 3 different shots into it, while having it loop as well </description>
+      <guid>http://localhost:1313/projects/motion-secrets-final/</guid>
+      <description> There was a time limit of 7 seconds for this which made it a challenge to fit 3 different shots into it, while having it loop as well </description>
     </item>
-    
     <item>
       <title>Morphing Grid</title>
-      <link>https://jemjustin.com/projects/morphing-grid/</link>
+      <link>http://localhost:1313/projects/morphing-grid/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
-      
-      <guid>https://jemjustin.com/projects/morphing-grid/</guid>
-      <description>   Exploring different ways typography could animate within a poster-like format </description>
+      <guid>http://localhost:1313/projects/morphing-grid/</guid>
+      <description> Exploring different ways typography could animate within a poster-like format </description>
     </item>
-    
     <item>
       <title>Shape 05</title>
-      <link>https://jemjustin.com/projects/shapes-05/</link>
+      <link>http://localhost:1313/projects/shapes-05/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
-      
-      <guid>https://jemjustin.com/projects/shapes-05/</guid>
-      <description>   Shape layer animation experiments in a poster-like format </description>
+      <guid>http://localhost:1313/projects/shapes-05/</guid>
+      <description> Shape layer animation experiments in a poster-like format </description>
     </item>
-    
     <item>
       <title>Mech City Run</title>
-      <link>https://jemjustin.com/projects/mech-city-run/</link>
+      <link>http://localhost:1313/projects/mech-city-run/</link>
       <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
-      
-      <guid>https://jemjustin.com/projects/mech-city-run/</guid>
-      <description>   A personal project that explored different software. The buildings were created from simple geometry in Blender The mech design was designed in illustrator and rigged with Duik in after effects </description>
+      <guid>http://localhost:1313/projects/mech-city-run/</guid>
+      <description> A personal project that explored different software. The buildings were created from simple geometry in Blender The mech design was designed in illustrator and rigged with Duik in after effects </description>
     </item>
-    
     <item>
       <title>Blend 3015</title>
-      <link>https://jemjustin.com/projects/blend-3015/</link>
+      <link>http://localhost:1313/projects/blend-3015/</link>
       <pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate>
-      
-      <guid>https://jemjustin.com/projects/blend-3015/</guid>
-      <description>   An assignment from a course called &amp;ldquo;Advanced Motion Methods&amp;rdquo; where more complex shot transitions were explored based on provided style frames </description>
+      <guid>http://localhost:1313/projects/blend-3015/</guid>
+      <description> An assignment from a course called &amp;ldquo;Advanced Motion Methods&amp;rdquo; where more complex shot transitions were explored based on provided style frames </description>
     </item>
-    
     <item>
       <title>Science Addicts Unite</title>
-      <link>https://jemjustin.com/projects/science-addicts-unite/</link>
+      <link>http://localhost:1313/projects/science-addicts-unite/</link>
       <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
-      
-      <guid>https://jemjustin.com/projects/science-addicts-unite/</guid>
-      <description>   An assignment from a course called &amp;ldquo;Advanced Motion Methods&amp;rdquo; that had a mix of after effects and Cinema 4D based on provided style frames </description>
+      <guid>http://localhost:1313/projects/science-addicts-unite/</guid>
+      <description> An assignment from a course called &amp;ldquo;Advanced Motion Methods&amp;rdquo; that had a mix of after effects and Cinema 4D based on provided style frames </description>
     </item>
-    
     <item>
       <title>UI 03</title>
-      <link>https://jemjustin.com/projects/ui-03/</link>
+      <link>http://localhost:1313/projects/ui-03/</link>
       <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
-      
-      <guid>https://jemjustin.com/projects/ui-03/</guid>
-      <description>   Futuristic HUD animation that has a main rig to control most of the animation, based off of expression in after effects </description>
+      <guid>http://localhost:1313/projects/ui-03/</guid>
+      <description> Futuristic HUD animation that has a main rig to control most of the animation, based off of expression in after effects </description>
     </item>
-    
     <item>
       <title>Shape 04</title>
-      <link>https://jemjustin.com/projects/shape-04/</link>
+      <link>http://localhost:1313/projects/shape-04/</link>
       <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
-      
-      <guid>https://jemjustin.com/projects/shape-04/</guid>
-      <description>   A personal project with a focus on simple shapes and a sense of frenetic energy </description>
+      <guid>http://localhost:1313/projects/shape-04/</guid>
+      <description> A personal project with a focus on simple shapes and a sense of frenetic energy </description>
     </item>
-    
   </channel>
 </rss>

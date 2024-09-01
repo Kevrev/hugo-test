@@ -1,3 +1,0 @@
-[build]
-  command = "mkdir -p public && hugo"
-  publish = "public"
