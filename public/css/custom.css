@@ -1,0 +1,260 @@
+/* your styles go here */
+
+/* #f4f4f4 = default bg color */
+
+body {
+  line-height: 1.5; /* Sidebar Line Spacing */
+  color: #000000;
+  background: #ffffff; /* Overall BG color */
+}
+
+/* Main Type */
+body {
+    font-size: 1.5rem;
+    font-weight: 200;
+    letter-spacing: 0.0em;
+    font-family: "Sora", sans-serif;
+}
+
+header {
+    font-size: 2rem;
+    font-weight: 200;
+    letter-spacing: 0.1em;
+    font-family: "Sora", sans-serif;
+}
+
+/* mobile player spacing */
+
+.content-column-content {
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-bottom: 20px;
+}
+
+/* buttons  */
+
+.small-navbar {
+  margin-bottom: 20px;
+}
+
+.btn {
+  font-weight: 400;
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  padding: 6px 12px;
+  font-size: 16px;
+  line-height: 1.55;
+  border-radius: 0;
+}
+
+.btn-ghost {
+  color: #333333;
+  background-color: transparent;
+  border-color: #333333;
+}
+
+.btn-ghost:hover,
+.btn-ghost:focus,
+.btn-ghost:active,
+.btn-ghost.active,
+.open .dropdown-toggle.btn-ghost {
+  color: #fff;
+  background-color: #555555;
+  border-color: #555555;
+}
+
+/* Side Bar  */
+
+.sidebar-menu {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 70px;
+    margin-bottom: 0px;
+    top: 0;
+    bottom:0;
+    position:fixed;
+    overflow-y:scroll;
+    overflow-x:hidden;
+  }
+
+/* Side Bar color */
+
+.sidebar-menu li a {
+    color: #555555;
+  }
+  .sidebar-menu li:before {
+    font-family: 'FontAwesome';
+    margin: 0 5px 0 -15px;
+    color: #999999;
+  }
+  .sidebar-menu li.active a {
+    color: #555555;
+    font-weight: bold;
+  }
+  .sidebar-menu li.active:before {
+    color: #000000;
+  }
+  .sidebar-menu li:hover a {
+    text-decoration: none;
+    color: #000000;
+  }
+  .sidebar-menu li:hover:before {
+    color: #2b7551;
+  }
+
+/* box hover BG (visible on wider screens) */
+
+.box-masonry .box-masonry-image {
+    display: block;
+    position: relative;
+    min-height: 100px;
+    background: #ffffff;
+  }
+
+.box-masonry .box-masonry-image.with-hover-overlay:before {
+  display: block;
+  position: absolute;
+  content: " ";
+  background: #1d1d1d;
+  opacity: 0%;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+}
+
+/* Box font family */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+  font-family: "Sora", sans-serif;
+  font-weight: 500;
+  line-height: 1.1;
+  color: #555555;
+}
+h1,
+.h1 {
+  font-size: 48px;
+}
+h2,
+.h2 {
+  font-size: 38px;
+}
+h3,
+.h3 {
+  font-size: 32px;
+  font-weight: 700;
+}
+h4,
+.h4 {
+  font-size: 24px;
+  font-weight: 700;
+}
+h5,
+.h5 {
+  font-size: 16px;
+  font-weight: 700;
+}
+h6,
+.h6 {
+  font-size: 1.5rem;
+  font-weight: 515;
+}
+h1,
+.h1,
+h2,
+.h2,
+h3,
+.h3 {
+  margin-top: 30px;
+  margin-left: 10em;
+  margin-bottom: 24px;
+}
+p {
+  margin: 0 0 24px;
+}
+.lead {
+  margin-bottom: 24px;
+  font-size: 18px;
+}
+
+/* Box Text Control */
+
+.box-masonry h4 {
+    font-size: 24px;
+    line-height: 1.5;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.0em;
+  }
+  .box-masonry h4 a {
+    color: #000;
+    border-bottom: solid 1px transparent;
+  }
+  .box-masonry h4 a:hover {
+    border-bottom: dotted 1px #2b7551;
+    color: #000;
+    text-decoration: none;
+  }
+  .box-masonry .box-masonry-text {
+    padding: 15px 20px 15px;
+  }
+  .box-masonry .box-masonry-text p {
+    color: #999999;
+    font-size: 14px;
+  }
+  .box-masonry .box-masonry-hover-text-header {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    padding: 15px 20px 15px;
+    opacity: 0;
+    -webkit-transition: all 0.2s ease-out;
+    -moz-transition: all 0.2s ease-out;
+    transition: all 0.2s ease-out;
+    color: #f4f4f4;
+  }
+  .box-masonry .box-masonry-hover-text-header p {
+    font-size: 20px;
+  }
+  .box-masonry .box-masonry-hover-text-header h4 a {
+    color: #f4f4f4;
+  }
+
+/* Video Container Padding Left & Top */
+
+  @media (min-width: 1200px) {
+    .content-column-content {
+      padding-left: 0px;
+      padding-right: 140px;
+      padding-bottom: 250px;
+    }
+  }
+  .content-column {
+    padding-top: 70px;
+    padding-left: 100px;
+    padding-right: 100px;
+  }
+
+  /* Selection Color */
+
+  ::selection {
+    color: #0011ff;
+    
+  }
+  ::-moz-selection {
+    color:#0011ff;
+    
+  }
